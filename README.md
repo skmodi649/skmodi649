@@ -9,6 +9,6 @@ skmodi649/skmodi649 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skmodi649&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skmodi649&show_icons=true&theme=dracula)
 
 
