@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skmodi649
 - 👀 I’m interested in Programming , Development and Open Source Contribution
-- 🌱 Moderate coder and Android Developer
+- 🌱 Coder and Android developer
 - 💞️ I’m looking to collaborate on Android and DSA domains
 - 📫 Reach me at skmodi20bce2835@gmail.com
 
