@@ -1,17 +1,25 @@
-- 👋 Hi, I’m @skmodi649
-- 👀 I’m interested in Programming , Development and Open Source Contribution
-- 🌱 Coder and Android developer
-- 💞️ I’m looking to collaborate on Android and DSA domains
-- 📫 Reach me at skmodi20bce2835@gmail.com
+### Hi there 👋, my name is Suraj
+#### Well begun is half done!
+Well begun is half done!
 
-<!---
-skmodi649/skmodi649 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently a student at VIT Vellore, pursuing B.Tech in CSE.
+Coder , Android Developer and Open Source Contributor
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-![Instagram](https://img.shields.io/badge/Instagram-000021?style=for-the-badge&logo=Instagram&logoColor=green)]
+Skills: JAVA | C | C++ | SpringBoot
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skmodi649&show_icons=true&theme=dracula)
+- 🔭 I’m currently working on Sanskrit and Wellness meter app 
+- 💬 Ask me about Open Source Contribution and App development 
+- 📫 How to reach me: skmodi20bce2835@gmail.com 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/skmodi649)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/skmodi20bce2835@gmail.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Sukumo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/skmodi007/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/sukumo)  
+
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skmodi649)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=skmodi649&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=skmodi649)  
+
+![Profile views](https://gpvc.arturio.dev/skmodi649)  
