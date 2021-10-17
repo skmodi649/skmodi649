@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-![Instagram](https://img.shields.io/badge/<Instagram-000000?style=for-the-badge&logo=<Instagram>&logoColor=<green>)
+![Instagram](https://img.shields.io/badge/Instagram-000021?style=for-the-badge&logo=<Instagram>&logoColor=<green>)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skmodi649&show_icons=true&theme=dracula)
 
