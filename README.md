@@ -7,7 +7,7 @@ Coder , Android Developer and Open Source Contributor
 
 Skills: JAVA | C | C++ | SpringBoot
 
-- 🔭 I’m currently working on Sanskrit and Wellness meter app 
+- 🔭 I’m currently working on few Apps and Open Source Projects
 - 💬 Ask me about Open Source Contribution and App development 
 - 📫 How to reach me: skmodi20bce2835@gmail.com 
 
