@@ -5,7 +5,7 @@
 Currently a student at VIT Vellore, pursuing B.Tech in CSE.
 Coder , Android Developer and Open Source Contributor
 
-Skills: JAVA | C | C++ | SpringBoot
+Skills: JAVA | C | C++ | SpringBoot | Graphic Designing
 
 - 🔭 I’m currently working on few Apps and Open Source Projects
 - 💬 Ask me about Open Source Contribution and App development 
