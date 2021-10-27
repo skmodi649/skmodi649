@@ -2,8 +2,7 @@
 
 #### Well begun is half done!
 
-Currently a student at VIT Vellore, pursuing B.Tech in CSE.
-Coder , Android Developer and Open Source Contributor
+Budding Coder , Developer and Open Source Contributor!
 
 Skills: JAVA | C | C++ | SpringBoot | Graphic Designing
 
