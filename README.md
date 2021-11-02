@@ -18,6 +18,10 @@ Skills: JAVA | C | C++ | SpringBoot | Graphic Designing
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=skmodi649&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=skmodi649)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=skmodi649) 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skmodi649&theme=dark)](https://git.io/streak-stats)
+
 
 ![Profile views](https://gpvc.arturio.dev/skmodi649)  
+
