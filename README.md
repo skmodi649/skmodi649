@@ -6,7 +6,7 @@ Budding Coder , Developer and Open Source Contributor!
 
 Skills: JAVA | C | C++ | SpringBoot | Graphic Designing
 
-- 🔭 I’m currently working on few Apps and Open Source Projects
+- 🔭 I’m currently working on few Apps , Open Source Projects and Frontend Web Development
 - 💬 Ask me about Open Source Contribution and App development 
 - 📫 How to reach me: skmodi20bce2835@gmail.com 
 
