@@ -1,6 +1,6 @@
 ### Hi there '<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">' I am Suraj Kumar
 
-#### Well begun is half done!
+#### Well begun is two quarter done!
 
 Budding Coder , Developer and Open Source Contributor!
 
