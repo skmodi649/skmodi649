@@ -4,7 +4,13 @@
 
 Budding Coder , Developer and Open Source Contributor!
 
-Skills: JAVA | C | C++ | SpringBoot | Graphic Designing | UX Designing | Android Development
+#### Skills
+- Java
+- C
+- C++
+- Android Development
+- Graphic designing
+- UX/UI designing
 
 - 🔭 I’m currently working on few Apps , Open Source Projects and Frontend Web Development
 - 💬 Ask me about Open Source Contribution and App development 
