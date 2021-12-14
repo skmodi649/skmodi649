@@ -11,7 +11,7 @@ Budding Coder , Developer and Open Source Contributor!
 - Android Development
 - Graphic designing
 - UX/UI designing
-
+#### Status and reach
 - 🔭 I’m currently working on few Apps , Open Source Projects and Frontend Web Development
 - 💬 Ask me about Open Source Contribution and App development 
 - 📫 How to reach me:  LinkedIn : https://www.linkedin.com/in/suraj-kumar-410744202/
