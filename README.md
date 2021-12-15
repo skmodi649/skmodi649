@@ -4,13 +4,18 @@
 
 Budding Coder , Developer and Open Source Contributor!
 
-#### Skills 
+#### Skills acquired : 
 - Java
 - C
 - C++
 - Android Development in Java
 - Graphic designing
 - UX/UI designing
+
+#### Working upon :
+- Frontend Web development
+- Android development in Kotlin
+
 #### Status and reach
 - 🔭 I’m currently working on few Apps , Open Source Projects and Frontend Web Development
 - 💬 Ask me about Open Source Contribution and App development 
