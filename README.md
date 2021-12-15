@@ -4,11 +4,11 @@
 
 Budding Coder , Developer and Open Source Contributor!
 
-#### Skills
+#### Skills 
 - Java
 - C
 - C++
-- Android Development
+- Android Development in Java
 - Graphic designing
 - UX/UI designing
 #### Status and reach
