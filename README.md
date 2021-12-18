@@ -16,7 +16,7 @@ Budding Coder , Developer and Open Source Contributor!
 - Frontend Web development
 - Android development in Kotlin
 
-#### Status and reach
+#### Status and Connect :
 - 🔭 I’m currently working on few Apps , Open Source Projects and Frontend Web Development
 - 💬 Ask me about Open Source Contribution and App development 
 - 📫 How to reach me:  LinkedIn : https://www.linkedin.com/in/suraj-kumar-410744202/
