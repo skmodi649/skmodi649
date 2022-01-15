@@ -32,8 +32,6 @@ Budding Coder , Developer and Open Source Contributor!
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=skmodi649) 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skmodi649&theme=dark)](https://git.io/streak-stats)
-
 
 ![Profile views](https://gpvc.arturio.dev/skmodi649)  
 
