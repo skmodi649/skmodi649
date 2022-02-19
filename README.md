@@ -10,11 +10,11 @@ Budding Coder , Developer and Open Source Contributor!
 - C++
 - Android Development in Java
 - Graphic designing
-- UX/UI designing
 
 #### Working upon :
 - Frontend Web development
 - Android development in Kotlin
+- UX/UI Designing
 
 #### Status and Connect :
 - 🔭 I’m currently working on few Apps , Open Source Projects and Frontend Web Development
