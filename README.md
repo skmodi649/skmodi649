@@ -12,7 +12,7 @@ Budding Coder , Developer and Open Source Contributor!
 - Graphic designing
 
 #### Working upon :
-- Frontend Web development
+- Competitive Coding
 - Android development in Kotlin
 - UX/UI Designing
 
