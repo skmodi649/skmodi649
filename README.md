@@ -20,7 +20,7 @@ Budding Coder , Developer and Open Source Contributor!
 - 🔭 I’m currently working on few Apps , Open Source Projects and Frontend Web Development
 - 💬 Ask me about Open Source Contribution and App development 
 - 📫 How to reach me:  - LinkedIn : https://www.linkedin.com/in/suraj-kumar-410744202/
-                        - Instagram : https://www.instagram.com/skmodi007/
+- Instagram : https://www.instagram.com/skmodi007/
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/skmodi649)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/skmodi20bce2835@gmail.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Sukumo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/skmodi007/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/sukumo)  
 
