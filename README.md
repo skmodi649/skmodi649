@@ -2,14 +2,13 @@
 
 #### Well begun is half done!
 
-Budding Coder , Developer and Open Source Contributor!
+Budding Coder , Android Developer and Open Source Contributor!
 
 #### Skills acquired : 
 - Java
 - C
 - C++
 - Android Development in Java
-- Graphic designing
 
 #### Working upon :
 - Competitive Coding
