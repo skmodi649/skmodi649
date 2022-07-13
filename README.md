@@ -1,4 +1,4 @@
-### Hi there '<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">' I am Suraj aka SuKuMo
+### Hi there! I am Suraj aka SuKuMo
 
 #### Well begun is half done!
 
