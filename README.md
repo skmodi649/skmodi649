@@ -1,4 +1,4 @@
-### Hi there! I am Suraj aka SuKuMo
+### Hi there! I am Suraj
 
 #### Well begun is half done!
 
