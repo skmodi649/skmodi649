@@ -9,12 +9,7 @@ Budding Coder , Android Developer and Open Source Contributor!
 - C
 - C++
 - Android Development in Java
-
-#### Working upon :
-- Competitive Coding
-- Android development in Kotlin
-- UX/UI Designing
-
+- 
 #### Status and Connect :
 - 🔭 I’m currently working on few Apps , Open Source Projects and Frontend Web Development
 - 💬 Ask me about Open Source Contribution and App development 
@@ -26,8 +21,6 @@ Budding Coder , Android Developer and Open Source Contributor!
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skmodi649)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=skmodi649&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=skmodi649) 
 
