@@ -22,8 +22,4 @@ Budding Coder , Android Developer and Open Source Contributor!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skmodi649)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=skmodi649) 
-
-
-![Profile views](https://gpvc.arturio.dev/skmodi649)  
 
