@@ -23,7 +23,7 @@ Hi there! I'm Suraj, a passionate coder and Android developer currently explorin
 
 📫 How to reach me:
 - LinkedIn: [Suraj Kumar](https://www.linkedin.com/in/suraj-kumar-410744202/)
-- Instagram: [skmodi007](https://www.instagram.com/suraj_2835_kr/)
+- Instagram: [suraj_2835_kr](https://www.instagram.com/suraj_2835_kr/)
 
 ## GitHub Stats
 
