@@ -1,25 +1,36 @@
-### Hi there! I am Suraj
+# Hello, World! 👋 I'm Suraj Kumar
 
-#### Well begun is half done!
+![Header](https://img.shields.io/badge/Budding%20Coder-%E2%9A%A1-orange)
+![Header](https://img.shields.io/badge/Android%20Developer-%F0%9F%93%B1-green)
+![Header](https://img.shields.io/badge/Open%20Source%20Contributor-%F0%9F%9A%80-blue)
 
-Budding Coder , Android Developer and Open Source Contributor!
+## About Me
 
-#### Skills acquired : 
-- Java
-- C
-- C++
-- Android Development in Java
-- 
-#### Status and Connect :
-- 🔭 I’m currently working on few Apps , Open Source Projects and Frontend Web Development
-- 💬 Ask me about Open Source Contribution and App development 
-- 📫 How to reach me:  - LinkedIn : https://www.linkedin.com/in/suraj-kumar-410744202/
-- Instagram : https://www.instagram.com/skmodi007/
+Hi there! I'm Suraj, a passionate coder and Android developer currently exploring the vast world of open source. As a firm believer in the philosophy that "well begun is half done," I'm dedicated to creating meaningful projects and contributing to the tech community.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/skmodi649)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/skmodi20bce2835@gmail.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Sukumo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/skmodi007/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/sukumo)  
+## Skills Acquired
 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+- Java 💻
+- C 🧑‍💻
+- C++ 🖥️
+- Android Development in Java 📱
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skmodi649)](https://github.com/anuraghazra/github-readme-stats)
+## Status and Connect
 
+🔭 I’m currently working on a few exciting Apps, Open Source Projects, and diving into Frontend Web Development.
 
+💬 Ask me about Open Source Contribution and App development; I'm always up for a good tech chat!
+
+📫 How to reach me:
+- LinkedIn: [Suraj Kumar](https://www.linkedin.com/in/suraj-kumar-410744202/)
+- Instagram: [skmodi007](https://www.instagram.com/skmodi007/)
+
+## GitHub Stats
+
+![Suraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=skmodi649&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skmodi649&layout=compact)
+
+Let's collaborate, innovate, and make a positive impact together! 💡✨
